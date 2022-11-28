@@ -12,8 +12,8 @@ const int echoPin = 4;
 long duration;
 float distance;
 
-#define SECRET_SSID "Sanket bhat"        // replace MySSID with your WiFi network name
-#define SECRET_PASS "Sankey123"   // replace MyPassword with your WiFi password
+#define SECRET_SSID "SanketSarmalkar"        // replace MySSID with your WiFi network name
+#define SECRET_PASS "Sanket123456789"   // replace MyPassword with your WiFi password
 
 #define SECRET_CH_ID 1958518           // replace 0000000 with your channel number
 #define SECRET_WRITE_APIKEY "P1I2HWN1HVZM9DA8"   // replace XYZ with your channel write API Key
